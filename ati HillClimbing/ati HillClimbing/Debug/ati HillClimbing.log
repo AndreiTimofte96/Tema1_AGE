@@ -1,0 +1,4 @@
+﻿  ati HillClimbing.cpp
+d:\probleme_c++\ati hillclimbing\ati hillclimbing\ati hillclimbing.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ati HillClimbing.vcxproj -> D:\Probleme_C++\ati HillClimbing\Debug\ati HillClimbing.exe
+  ati HillClimbing.vcxproj -> D:\Probleme_C++\ati HillClimbing\Debug\ati HillClimbing.pdb (Full PDB)

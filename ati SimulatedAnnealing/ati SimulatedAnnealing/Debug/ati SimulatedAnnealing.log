@@ -1,0 +1,4 @@
+﻿  ati SimulatedAnnealing.cpp
+d:\probleme_c++\ati simulatedannealing\ati simulatedannealing\ati simulatedannealing.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ati SimulatedAnnealing.vcxproj -> D:\Probleme_C++\ati SimulatedAnnealing\Debug\ati SimulatedAnnealing.exe
+  ati SimulatedAnnealing.vcxproj -> D:\Probleme_C++\ati SimulatedAnnealing\Debug\ati SimulatedAnnealing.pdb (Full PDB)
