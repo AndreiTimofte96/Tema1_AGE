@@ -106,7 +106,7 @@ double Random_Neighbour(Name name, int vector[], int length, double sample[sizeO
 	if (vector[0] == 1)
 		sample[random] *= -1;
 	result = CalculateResult(name, sample);
-
+	vector[rand] = 1 - vector[rand];
 	return result;
 }
 
